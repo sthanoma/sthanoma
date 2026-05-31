@@ -70,7 +70,7 @@
 
 ---
 
-## 🔥 Fun Section (Optional but Pro)
+## 🔥 Fun Section 
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sthanoma&theme=react-dark"/>
