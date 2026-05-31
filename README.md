@@ -20,20 +20,28 @@
 ---
 
 ## 🛠️ Tech Stack
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
-**Frontend:**
-- HTML, CSS, JavaScript, React
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django" />
+</p>
 
-**Backend:**
-- Django, Node.js
+### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
 
-**Database:**
-- PostgreSQL, MySQL
-
-**Tools:**
-- Git, GitHub, VS Code, Linux
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
