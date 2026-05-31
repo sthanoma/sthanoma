@@ -42,14 +42,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sthanoma&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthanoma&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
 
 ## 🔥 GitHub Streak Stats
 
@@ -58,12 +51,6 @@
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sthanoma&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
 
 
 
